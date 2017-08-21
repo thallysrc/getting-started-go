@@ -11,4 +11,4 @@ inside the root path you run this command:
 ./wiki
 ```
 to edit the test.txt you need to open this url:
-[a link](http://127.0.0.1:8080/view/test)
+[http://127.0.0.1:8080/view/test](http://127.0.0.1:8080/view/test)
